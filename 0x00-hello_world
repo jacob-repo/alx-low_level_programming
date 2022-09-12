@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(gcc -E ccode.c > preprocessedfile)
